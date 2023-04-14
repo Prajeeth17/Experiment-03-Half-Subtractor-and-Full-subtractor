@@ -77,13 +77,21 @@ endmodule
 ### Full Subtractor:
 ![](/Images/fstt.png)
 
-##  RTL realization:
+##  Logical Diagram:
 
 ### Half Subtractor:
 ![](/Images/hslogic.png)
 
 ### Full Subtractor:
 ![](/Images/fslogic.png)
+
+## RTL realization:
+
+### Half Subtractor:
+![](/Images/hsrtl.png)
+
+### Full Subtractor:
+![](/Images/fsrtl.png)
 
 ## Timing diagram:
 
